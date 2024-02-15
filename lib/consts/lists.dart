@@ -51,3 +51,29 @@ const categoryImages = [
   imgFc8,
   imgFc9,
 ];
+
+const itemDetailsButtonsList = [
+  video,
+  views,
+  PrivacyPolicy,
+  returnPolicy,
+  sellerPolicy
+];
+
+const profileButtonsList = [
+  myWallet,
+  myOrder,
+  myWIshlist,
+  earnedPoints,
+  refundRequests,
+  messages,
+];
+
+const profileButtonsIcon = [
+  icWallet,
+  icOrder,
+  icWhiteTick,
+  icWhiteTick,
+  icRefund,
+  icMessages,
+];

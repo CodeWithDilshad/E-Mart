@@ -10,6 +10,7 @@ const name = "Name";
 const nameHint = "Dilshas Ansari";
 const forgetPass = 'forget passwprd?';
 const login = "LogIn";
+const logOut = 'Log Out';
 const signUp = "sing Up";
 const createnewaccount = "or, create a new account";
 const loginWith = 'Log in with';
@@ -50,3 +51,21 @@ const womenClothing = "Mechanical",
     cellPhone = "CellPhone & Tab",
     furniture = "Furniture",
     compAccess = 'Computer & Accessories';
+
+// Item details Strings
+
+const video = "Video",
+    views = "Views",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+    supportPolicy = "Support Policy",
+    productYouMayLike = "Product you may also like";
+
+// Profile Strings
+
+const myOrder = "My Order",
+    myWallet = "My wallet",
+    myWIshlist = 'My WIshlist',
+    earnedPoints = "Earned Points",
+    refundRequests = "Refund Requests",
+    messages = "Messages";
